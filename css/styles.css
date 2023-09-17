@@ -21,7 +21,7 @@ ul {
   text-transform: uppercase;
   text-decoration: none;
 }
-.header-logo span {
+.header-logo > span {
   color: #2e2f42;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -114,7 +114,7 @@ ul {
 .section-team {
   background-color: #f4f4fd;
 }
-.section-team-item {
+.section-team-list > .section-team-item {
   background-color: #ffffff;
 }
 .section-team-title {
@@ -183,7 +183,7 @@ ul {
   text-transform: uppercase;
   text-decoration: none;
 }
-.footer-link span {
+.footer-link > span {
   color: #f4f4fd;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
